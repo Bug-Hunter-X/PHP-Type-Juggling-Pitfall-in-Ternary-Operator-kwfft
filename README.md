@@ -1,0 +1,1 @@
+This repository demonstrates a subtle but significant bug in PHP related to type juggling and the ternary operator. The code showcases unexpected behavior when comparing strings and integers using loose comparison (`==`). The solution offers a robust approach to avoid such pitfalls.
